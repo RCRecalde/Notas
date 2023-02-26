@@ -1,0 +1,26 @@
+[
+  {
+    "titulo": "Trabajo práctico",
+    "estado": "en proceso"
+  },
+  {
+    "titulo": "Tutorías",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "Pintar",
+    "estado": "terminado"
+  },
+  {
+    "titulo": "Limpiar",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "sin título",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "lavar",
+    "estado": "pendiente"
+  }
+]
